@@ -1,1 +1,0 @@
- * Nombre del alumno: josue de jesus azueto reyes *
